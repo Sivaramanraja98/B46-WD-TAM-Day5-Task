@@ -7,4 +7,4 @@ let rotatearray = function (arr, k) {
   }
   let arr = ['1','2','3','4','5','6']
   let k = 3
-  console.log(rotatearray(arr,k))
+  console.log(rotatearray(arr,k)) //OutPut : [ '4', '5', '6', '1', '2', '3' ]
